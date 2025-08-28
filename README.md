@@ -51,7 +51,7 @@ The data pipeline for this project follows the ETL (Extract, Transform, Load)pro
 * Data Visualization: Power BI
 * ETL Process: SQL (Extract & Transform) + Power BI (Load & Visualization)
 
----
+
 
 ## 🚀 Insights Derived
 
@@ -67,7 +67,7 @@ The data pipeline for this project follows the ETL (Extract, Transform, Load)pro
 This project demonstrates how **ETL pipelines with SQL Server and Power BI** can be leveraged for **insurance data analysis**.
 The dashboard enables stakeholders to **monitor performance, identify risks, and optimize decision-making** in insurance operations.
 
----
 
-👉 Would you like me to also **add SQL query samples** (for extraction & transformation) in this README so that recruiters/others can see your backend work too?
+
+
 
